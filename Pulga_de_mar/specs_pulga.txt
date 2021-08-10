@@ -1,0 +1,9 @@
+Pulga de mar
+
+Atributos:
+	Id (empezando en el 1 (el 0 se dejará sin asignar))
+	Edad (en meses)
+	Tamaño (en mm)
+	Peso (en mg)
+	Nivel de hambre (del 1 al 5, donde 1 es nada y 5 mucho)
+
